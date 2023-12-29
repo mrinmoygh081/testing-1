@@ -7,6 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>TPathshala is the best. I know from my heart.</p>
+        <p>MERN Nov Batch is best batch TPathshala ever had!</p>
         <a
           className="App-link"
           href="https://reactjs.org"
